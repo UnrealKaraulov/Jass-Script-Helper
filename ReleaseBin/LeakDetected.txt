@@ -1,0 +1,174 @@
+In function:Unit000033_DropItems found 2 leaks!
+trigWidget::widget::32
+trigUnit::unit::33
+In function:Unit000034_DropItems found 2 leaks!
+trigWidget::widget::67
+trigUnit::unit::68
+In function:Unit000040_DropItems found 2 leaks!
+trigWidget::widget::102
+trigUnit::unit::103
+In function:Unit000041_DropItems found 2 leaks!
+trigWidget::widget::137
+trigUnit::unit::138
+In function:Unit000042_DropItems found 2 leaks!
+trigWidget::widget::172
+trigUnit::unit::173
+In function:Unit000046_DropItems found 2 leaks!
+trigWidget::widget::207
+trigUnit::unit::208
+In function:Unit000052_DropItems found 2 leaks!
+trigWidget::widget::242
+trigUnit::unit::243
+In function:Unit000053_DropItems found 2 leaks!
+trigWidget::widget::277
+trigUnit::unit::278
+In function:Unit000054_DropItems found 2 leaks!
+trigWidget::widget::312
+trigUnit::unit::313
+In function:Unit000058_DropItems found 2 leaks!
+trigWidget::widget::347
+trigUnit::unit::348
+In function:Unit000059_DropItems found 2 leaks!
+trigWidget::widget::382
+trigUnit::unit::383
+In function:Unit000061_DropItems found 2 leaks!
+trigWidget::widget::417
+trigUnit::unit::418
+In function:Unit000064_DropItems found 2 leaks!
+trigWidget::widget::452
+trigUnit::unit::453
+In function:Unit000065_DropItems found 2 leaks!
+trigWidget::widget::487
+trigUnit::unit::488
+In function:Unit000066_DropItems found 2 leaks!
+trigWidget::widget::522
+trigUnit::unit::523
+In function:Unit000067_DropItems found 2 leaks!
+trigWidget::widget::557
+trigUnit::unit::558
+In function:Unit000068_DropItems found 2 leaks!
+trigWidget::widget::592
+trigUnit::unit::593
+In function:Unit000069_DropItems found 2 leaks!
+trigWidget::widget::627
+trigUnit::unit::628
+In function:Unit000071_DropItems found 2 leaks!
+trigWidget::widget::662
+trigUnit::unit::663
+In function:Unit000073_DropItems found 2 leaks!
+trigWidget::widget::697
+trigUnit::unit::698
+In function:Unit000076_DropItems found 2 leaks!
+trigWidget::widget::732
+trigUnit::unit::733
+In function:Unit000077_DropItems found 2 leaks!
+trigWidget::widget::767
+trigUnit::unit::768
+In function:Unit000079_DropItems found 2 leaks!
+trigWidget::widget::802
+trigUnit::unit::803
+In function:Unit000081_DropItems found 2 leaks!
+trigWidget::widget::837
+trigUnit::unit::838
+In function:Unit000082_DropItems found 2 leaks!
+trigWidget::widget::872
+trigUnit::unit::873
+In function:Unit000084_DropItems found 2 leaks!
+trigWidget::widget::907
+trigUnit::unit::908
+In function:Unit000086_DropItems found 2 leaks!
+trigWidget::widget::942
+trigUnit::unit::943
+In function:Unit000087_DropItems found 2 leaks!
+trigWidget::widget::977
+trigUnit::unit::978
+In function:Unit000088_DropItems found 2 leaks!
+trigWidget::widget::1012
+trigUnit::unit::1013
+In function:Unit000089_DropItems found 2 leaks!
+trigWidget::widget::1047
+trigUnit::unit::1048
+In function:Unit000090_DropItems found 2 leaks!
+trigWidget::widget::1082
+trigUnit::unit::1083
+In function:Unit000091_DropItems found 2 leaks!
+trigWidget::widget::1117
+trigUnit::unit::1118
+In function:Unit000092_DropItems found 2 leaks!
+trigWidget::widget::1152
+trigUnit::unit::1153
+In function:Unit000095_DropItems found 2 leaks!
+trigWidget::widget::1187
+trigUnit::unit::1188
+In function:Unit000096_DropItems found 2 leaks!
+trigWidget::widget::1222
+trigUnit::unit::1223
+In function:Unit000102_DropItems found 2 leaks!
+trigWidget::widget::1257
+trigUnit::unit::1258
+In function:Unit000109_DropItems found 2 leaks!
+trigWidget::widget::1292
+trigUnit::unit::1293
+In function:Unit000110_DropItems found 2 leaks!
+trigWidget::widget::1327
+trigUnit::unit::1328
+In function:Unit000111_DropItems found 2 leaks!
+trigWidget::widget::1362
+trigUnit::unit::1363
+In function:Unit000116_DropItems found 2 leaks!
+trigWidget::widget::1397
+trigUnit::unit::1398
+In function:Unit000117_DropItems found 2 leaks!
+trigWidget::widget::1432
+trigUnit::unit::1433
+In function:Unit000121_DropItems found 2 leaks!
+trigWidget::widget::1467
+trigUnit::unit::1468
+In function:Unit000127_DropItems found 2 leaks!
+trigWidget::widget::1502
+trigUnit::unit::1503
+In function:Unit000128_DropItems found 2 leaks!
+trigWidget::widget::1537
+trigUnit::unit::1538
+In function:Unit000129_DropItems found 2 leaks!
+trigWidget::widget::1572
+trigUnit::unit::1573
+In function:Unit000133_DropItems found 2 leaks!
+trigWidget::widget::1607
+trigUnit::unit::1608
+In function:Unit000134_DropItems found 2 leaks!
+trigWidget::widget::1642
+trigUnit::unit::1643
+In function:Unit000136_DropItems found 2 leaks!
+trigWidget::widget::1677
+trigUnit::unit::1678
+In function:Unit000141_DropItems found 2 leaks!
+trigWidget::widget::1712
+trigUnit::unit::1713
+In function:Unit000142_DropItems found 2 leaks!
+trigWidget::widget::1747
+trigUnit::unit::1748
+In function:Unit000147_DropItems found 2 leaks!
+trigWidget::widget::1782
+trigUnit::unit::1783
+In function:Unit000150_DropItems found 2 leaks!
+trigWidget::widget::1817
+trigUnit::unit::1818
+In function:Unit000154_DropItems found 2 leaks!
+trigWidget::widget::1852
+trigUnit::unit::1853
+In function:Unit000157_DropItems found 2 leaks!
+trigWidget::widget::1887
+trigUnit::unit::1888
+In function:Unit000160_DropItems found 2 leaks!
+trigWidget::widget::1922
+trigUnit::unit::1923
+In function:Unit000161_DropItems found 2 leaks!
+trigWidget::widget::1957
+trigUnit::unit::1958
+In function:CreateNeutralHostile found 2 leaks!
+u::unit::2001
+t::trigger::2003
+In function:CreateNeutralPassiveBuildings found 2 leaks!
+u::unit::2409
+t::trigger::2411

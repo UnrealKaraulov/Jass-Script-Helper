@@ -1,0 +1,7 @@
+In function:CreateNeutralHostile found 2 unused vars!
+unitID:2003
+life:2005
+In function:CreateNeutralPassiveBuildings found 3 unused vars!
+unitID:2411
+t:2412
+life:2413
